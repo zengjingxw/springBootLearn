@@ -1,4 +1,4 @@
-package cn.smile.core;
+package cn.smile.core.config;
 
 import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
