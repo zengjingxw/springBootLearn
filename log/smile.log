@@ -1,0 +1,42 @@
+2020-06-11 00:02:57.482 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 00:02:57.514 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 00:02:57.691 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 00:04:53.454 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 12796 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 00:04:53.457 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 00:04:53.459 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 00:04:53.785 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 00:05:27.255 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 00:05:27.256 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 00:05:27.397 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 00:05:28.913 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
+2020-06-11 00:05:30.206 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:05:30.216 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:05:30.229 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 00:05:30.256 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 37.365 seconds (JVM running for 39.903)
+2020-06-11 00:06:24.899 [ Thread-2 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
+2020-06-11 00:06:30.730 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 21912 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 00:06:30.737 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 00:06:30.737 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 00:06:31.186 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 00:13:18.569 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 00:13:18.571 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 00:13:18.729 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 00:13:32.671 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
+2020-06-11 00:13:45.382 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:13:45.392 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:13:45.412 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 00:13:45.435 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 435.587 seconds (JVM running for 438.491)
+2020-06-11 00:13:49.691 [ Thread-2 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
+2020-06-11 00:13:56.575 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 21732 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 00:13:56.579 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 00:13:56.580 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 00:13:56.920 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 00:15:59.630 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 00:15:59.633 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 00:15:59.804 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 00:16:01.768 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
+2020-06-11 00:16:06.918 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:16:06.931 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:16:06.955 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 00:16:06.987 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 131.085 seconds (JVM running for 133.873)
+2020-06-11 00:16:14.382 [ Thread-2 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
