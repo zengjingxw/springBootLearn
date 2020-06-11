@@ -1,0 +1,419 @@
+2020-06-11 00:02:57.482 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 00:02:57.514 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 00:02:57.691 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 00:04:53.454 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 12796 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 00:04:53.457 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 00:04:53.459 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 00:04:53.785 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 00:05:27.255 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 00:05:27.256 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 00:05:27.397 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 00:05:28.913 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
+2020-06-11 00:05:30.206 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:05:30.216 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:05:30.229 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 00:05:30.256 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 37.365 seconds (JVM running for 39.903)
+2020-06-11 00:06:24.899 [ Thread-2 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
+2020-06-11 00:06:30.730 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 21912 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 00:06:30.737 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 00:06:30.737 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 00:06:31.186 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 00:13:18.569 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 00:13:18.571 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 00:13:18.729 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 00:13:32.671 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
+2020-06-11 00:13:45.382 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:13:45.392 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:13:45.412 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 00:13:45.435 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 435.587 seconds (JVM running for 438.491)
+2020-06-11 00:13:49.691 [ Thread-2 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
+2020-06-11 00:13:56.575 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 21732 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 00:13:56.579 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 00:13:56.580 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 00:13:56.920 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 00:15:59.630 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 00:15:59.633 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 00:15:59.804 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 00:16:01.768 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
+2020-06-11 00:16:06.918 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:16:06.931 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:16:06.955 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 00:16:06.987 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 131.085 seconds (JVM running for 133.873)
+2020-06-11 00:16:14.382 [ Thread-2 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
+2020-06-11 00:16:20.063 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 10472 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 00:16:20.093 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 00:16:20.094 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 00:16:20.363 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 00:19:20.415 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 00:19:20.418 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 00:19:20.583 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 00:19:22.149 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
+2020-06-11 00:19:23.454 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:19:23.465 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 00:19:23.485 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 00:19:23.521 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 184.083 seconds (JVM running for 187.024)
+2020-06-11 00:23:11.069 [ http-nio-8080-exec-2 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2020-06-11 00:23:11.182 [ http-nio-8080-exec-2 ] - [ DEBUG ] [ c.s.core.mapper.DepartmentMapper.getAllDepartment : 159 ] - ==>  Preparing: select * from department 
+2020-06-11 00:23:11.227 [ http-nio-8080-exec-2 ] - [ DEBUG ] [ c.s.core.mapper.DepartmentMapper.getAllDepartment : 159 ] - ==> Parameters: 
+2020-06-11 00:23:11.249 [ http-nio-8080-exec-2 ] - [ DEBUG ] [ c.s.core.mapper.DepartmentMapper.getAllDepartment : 159 ] - <==      Total: 0
+2020-06-11 01:16:43.618 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 3780 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 01:16:43.626 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 01:16:43.627 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 01:16:44.024 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 01:16:45.919 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 01:16:45.922 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 01:16:46.083 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 01:16:47.722 [ main ] - [ INFO  ] [ org.hibernate.jpa.internal.util.LogHelper : 31 ] - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-06-11 01:16:47.801 [ main ] - [ INFO  ] [ org.hibernate.Version : 37 ] - HHH000412: Hibernate Core {5.0.12.Final}
+2020-06-11 01:16:47.803 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 213 ] - HHH000206: hibernate.properties not found
+2020-06-11 01:16:47.806 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 317 ] - HHH000021: Bytecode provider name : javassist
+2020-06-11 01:16:47.855 [ main ] - [ INFO  ] [ org.hibernate.annotations.common.Version : 66 ] - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2020-06-11 01:16:48.015 [ main ] - [ INFO  ] [ org.hibernate.dialect.Dialect : 156 ] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-06-11 01:16:48.547 [ main ] - [ INFO  ] [ org.hibernate.tool.hbm2ddl.SchemaUpdate : 105 ] - HHH000228: Running hbm2ddl schema update
+2020-06-11 01:16:48.567 [ main ] - [ INFO  ] [ o.h.t.s.e.i.InformationExtractorJdbcDatabaseMetaDataImpl : 365 ] - HHH000262: Table not found: tbl_user
+2020-06-11 01:16:48.570 [ main ] - [ INFO  ] [ o.h.t.s.e.i.InformationExtractorJdbcDatabaseMetaDataImpl : 365 ] - HHH000262: Table not found: tbl_user
+2020-06-11 01:16:49.972 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:16:49.989 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:16:50.007 [ main ] - [ ERROR ] [ org.apache.coyote.http11.Http11NioProtocol : 181 ] - Failed to start end point associated with ProtocolHandler ["http-nio-8080"]
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:461)
+	at java.base/sun.nio.ch.Net.bind(Net.java:453)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+	at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:80)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at cn.smile.core.MSpringBootConfiguration.main(MSpringBootConfiguration.java:15)
+2020-06-11 01:16:50.010 [ main ] - [ ERROR ] [ org.apache.catalina.core.StandardService : 181 ] - Failed to start connector [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at cn.smile.core.MSpringBootConfiguration.main(MSpringBootConfiguration.java:15)
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1031)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:461)
+	at java.base/sun.nio.ch.Net.bind(Net.java:453)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+	at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:80)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022)
+	... 14 common frames omitted
+2020-06-11 01:16:50.029 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Pausing ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:16:50.030 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Stopping service [Tomcat]
+2020-06-11 01:16:50.049 [ main ] - [ INFO  ] [ org.apache.catalina.util.LifecycleBase : 179 ] - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2020-06-11 01:16:50.050 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Stopping ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:16:50.050 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Destroying ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:17:44.397 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 22916 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 01:17:44.400 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 01:17:44.401 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 01:17:44.591 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 01:18:00.648 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 01:18:00.650 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 01:18:00.823 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 01:18:02.293 [ main ] - [ INFO  ] [ org.hibernate.jpa.internal.util.LogHelper : 31 ] - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-06-11 01:18:02.401 [ main ] - [ INFO  ] [ org.hibernate.Version : 37 ] - HHH000412: Hibernate Core {5.0.12.Final}
+2020-06-11 01:18:02.403 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 213 ] - HHH000206: hibernate.properties not found
+2020-06-11 01:18:02.405 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 317 ] - HHH000021: Bytecode provider name : javassist
+2020-06-11 01:18:02.460 [ main ] - [ INFO  ] [ org.hibernate.annotations.common.Version : 66 ] - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2020-06-11 01:18:02.602 [ main ] - [ INFO  ] [ org.hibernate.dialect.Dialect : 156 ] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-06-11 01:18:03.103 [ main ] - [ INFO  ] [ org.hibernate.tool.hbm2ddl.SchemaUpdate : 105 ] - HHH000228: Running hbm2ddl schema update
+2020-06-11 01:18:04.571 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:18:04.581 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:18:04.589 [ main ] - [ ERROR ] [ org.apache.coyote.http11.Http11NioProtocol : 181 ] - Failed to start end point associated with ProtocolHandler ["http-nio-8080"]
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:461)
+	at java.base/sun.nio.ch.Net.bind(Net.java:453)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+	at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:80)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at cn.smile.core.MSpringBootConfiguration.main(MSpringBootConfiguration.java:15)
+2020-06-11 01:18:04.589 [ main ] - [ ERROR ] [ org.apache.catalina.core.StandardService : 181 ] - Failed to start connector [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at cn.smile.core.MSpringBootConfiguration.main(MSpringBootConfiguration.java:15)
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1031)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:461)
+	at java.base/sun.nio.ch.Net.bind(Net.java:453)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+	at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:80)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022)
+	... 14 common frames omitted
+2020-06-11 01:18:04.598 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Pausing ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:18:04.598 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Stopping service [Tomcat]
+2020-06-11 01:18:04.610 [ main ] - [ INFO  ] [ org.apache.catalina.util.LifecycleBase : 179 ] - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2020-06-11 01:18:04.611 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Stopping ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:18:04.611 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Destroying ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:20:53.492 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 20884 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 01:20:53.497 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 01:20:53.498 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 01:20:53.768 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 01:20:55.195 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 01:20:55.197 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 01:20:55.334 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 01:20:56.654 [ main ] - [ INFO  ] [ org.hibernate.jpa.internal.util.LogHelper : 31 ] - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-06-11 01:20:56.779 [ main ] - [ INFO  ] [ org.hibernate.Version : 37 ] - HHH000412: Hibernate Core {5.0.12.Final}
+2020-06-11 01:20:56.781 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 213 ] - HHH000206: hibernate.properties not found
+2020-06-11 01:20:56.784 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 317 ] - HHH000021: Bytecode provider name : javassist
+2020-06-11 01:20:56.855 [ main ] - [ INFO  ] [ org.hibernate.annotations.common.Version : 66 ] - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2020-06-11 01:20:56.966 [ main ] - [ INFO  ] [ org.hibernate.dialect.Dialect : 156 ] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-06-11 01:20:57.319 [ main ] - [ INFO  ] [ org.hibernate.tool.hbm2ddl.SchemaUpdate : 105 ] - HHH000228: Running hbm2ddl schema update
+2020-06-11 01:20:58.268 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:20:58.278 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:20:58.286 [ main ] - [ ERROR ] [ org.apache.coyote.http11.Http11NioProtocol : 181 ] - Failed to start end point associated with ProtocolHandler ["http-nio-8080"]
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:461)
+	at java.base/sun.nio.ch.Net.bind(Net.java:453)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+	at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:80)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at cn.smile.core.MSpringBootConfiguration.main(MSpringBootConfiguration.java:15)
+2020-06-11 01:20:58.287 [ main ] - [ ERROR ] [ org.apache.catalina.core.StandardService : 181 ] - Failed to start connector [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at cn.smile.core.MSpringBootConfiguration.main(MSpringBootConfiguration.java:15)
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1031)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:461)
+	at java.base/sun.nio.ch.Net.bind(Net.java:453)
+	at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+	at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:80)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022)
+	... 14 common frames omitted
+2020-06-11 01:20:58.295 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Pausing ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:20:58.295 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Stopping service [Tomcat]
+2020-06-11 01:20:58.309 [ main ] - [ INFO  ] [ org.apache.catalina.util.LifecycleBase : 179 ] - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2020-06-11 01:20:58.309 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Stopping ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:20:58.310 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Destroying ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:25:52.819 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 16476 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 01:25:52.827 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 01:25:52.828 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 01:25:53.220 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 01:25:55.306 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 01:25:55.309 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 01:25:55.494 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 01:25:57.061 [ main ] - [ INFO  ] [ org.hibernate.jpa.internal.util.LogHelper : 31 ] - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-06-11 01:25:57.164 [ main ] - [ INFO  ] [ org.hibernate.Version : 37 ] - HHH000412: Hibernate Core {5.0.12.Final}
+2020-06-11 01:25:57.165 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 213 ] - HHH000206: hibernate.properties not found
+2020-06-11 01:25:57.167 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 317 ] - HHH000021: Bytecode provider name : javassist
+2020-06-11 01:25:57.213 [ main ] - [ INFO  ] [ org.hibernate.annotations.common.Version : 66 ] - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2020-06-11 01:25:57.336 [ main ] - [ INFO  ] [ org.hibernate.dialect.Dialect : 156 ] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-06-11 01:25:57.780 [ main ] - [ INFO  ] [ org.hibernate.tool.hbm2ddl.SchemaUpdate : 105 ] - HHH000228: Running hbm2ddl schema update
+2020-06-11 01:25:59.067 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:25:59.077 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:25:59.089 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 01:25:59.113 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 6.997 seconds (JVM running for 10.439)
+2020-06-11 01:29:17.984 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 19192 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 01:29:17.993 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 01:29:17.994 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 01:29:18.457 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 01:29:20.387 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 01:29:20.389 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 01:29:20.634 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 01:29:22.864 [ main ] - [ INFO  ] [ org.hibernate.jpa.internal.util.LogHelper : 31 ] - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-06-11 01:29:23.059 [ main ] - [ INFO  ] [ org.hibernate.Version : 37 ] - HHH000412: Hibernate Core {5.0.12.Final}
+2020-06-11 01:29:23.066 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 213 ] - HHH000206: hibernate.properties not found
+2020-06-11 01:29:23.079 [ main ] - [ INFO  ] [ org.hibernate.cfg.Environment : 317 ] - HHH000021: Bytecode provider name : javassist
+2020-06-11 01:29:23.229 [ main ] - [ INFO  ] [ org.hibernate.annotations.common.Version : 66 ] - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2020-06-11 01:29:23.487 [ main ] - [ INFO  ] [ org.hibernate.dialect.Dialect : 156 ] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2020-06-11 01:29:24.542 [ main ] - [ INFO  ] [ org.hibernate.tool.hbm2ddl.SchemaUpdate : 105 ] - HHH000228: Running hbm2ddl schema update
+2020-06-11 01:29:26.357 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:29:26.371 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 01:29:26.401 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 01:29:26.441 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 9.214 seconds (JVM running for 12.525)
+2020-06-11 01:29:43.545 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2020-06-11 01:44:29.445 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 01:44:29.483 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 1240 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 01:44:29.485 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 01:44:29.487 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 02:12:29.211 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 21868 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 02:12:29.217 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 02:12:29.218 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 02:12:29.546 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 02:12:31.091 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 02:12:31.093 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 02:12:31.252 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 02:12:32.363 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:12:32.375 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:12:32.406 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 02:12:32.439 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 3.765 seconds (JVM running for 1674.267)
+2020-06-11 02:38:12.140 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 02:39:58.550 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 21472 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 02:39:58.553 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 02:39:59.047 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 02:40:51.280 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 02:40:51.294 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 02:40:51.469 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 02:40:59.989 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:41:00.126 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:41:00.194 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 02:41:33.267 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 930.865 seconds (JVM running for 1724.136)
+2020-06-11 02:42:09.826 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 1292 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 02:42:09.832 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 02:42:09.832 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 02:42:10.166 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 02:42:11.410 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 02:42:11.411 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 02:42:11.591 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 02:42:12.790 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:42:12.803 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:42:12.824 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 02:42:15.399 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 6.112 seconds (JVM running for 12.271)
+2020-06-11 02:43:22.204 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 18128 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 02:43:22.208 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 02:43:22.209 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 02:43:22.573 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 02:43:23.800 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 02:43:23.802 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 02:43:23.928 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 02:43:24.902 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:43:24.915 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:43:24.934 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 02:43:24.968 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 3.333 seconds (JVM running for 6.063)
+2020-06-11 02:44:47.267 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 17068 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 02:44:47.271 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 02:44:47.272 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 02:44:47.571 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 02:44:48.714 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 02:44:48.716 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 02:44:48.836 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 02:44:49.478 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:44:49.486 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:44:49.501 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 02:44:49.524 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 2.591 seconds (JVM running for 4.867)
+2020-06-11 02:50:18.676 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 17832 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 02:50:18.682 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 02:50:18.683 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 02:50:19.098 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 02:50:20.753 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 02:50:20.756 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 02:50:20.914 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 02:50:22.200 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:50:22.221 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:50:22.254 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 02:50:22.289 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 4.24 seconds (JVM running for 7.695)
+2020-06-11 02:51:54.814 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 48 ] - Starting MSpringBootConfiguration on zengjing with PID 8124 (E:\IDEAPractice\smilespringboot\target\classes started by 笑忘 in E:\IDEAPractice\smilespringboot)
+2020-06-11 02:51:54.819 [ main ] - [ DEBUG ] [ cn.smile.core.MSpringBootConfiguration : 51 ] - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2020-06-11 02:51:54.820 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 593 ] - No active profile set, falling back to default profiles: default
+2020-06-11 02:51:55.151 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-06-11 02:51:56.498 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 179 ] - Starting service [Tomcat]
+2020-06-11 02:51:56.500 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 179 ] - Starting Servlet Engine: Apache Tomcat/8.5.23
+2020-06-11 02:51:56.663 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 179 ] - Initializing Spring embedded WebApplicationContext
+2020-06-11 02:51:57.760 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:51:57.776 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 179 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-11 02:51:57.805 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 179 ] - Using a shared selector for servlet write/read
+2020-06-11 02:51:57.870 [ main ] - [ INFO  ] [ cn.smile.core.MSpringBootConfiguration : 57 ] - Started MSpringBootConfiguration in 3.506 seconds (JVM running for 6.349)
